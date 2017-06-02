@@ -1,6 +1,6 @@
 <?php
 
-$to = "nikki.lyn.rivera@gmail.com";
+$to = "youremail@example.com";
 $from = "noreply@notify.com";
 $subject = $_POST['subject'];
 $message = $_POST['message'];
