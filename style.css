@@ -1,0 +1,32 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: whitesmoke;
+}
+
+form {
+    background: #fff;
+    width: 225px;
+    margin: 100px auto;
+    padding: 10px;
+    border-radius: 3px;
+    text-align: center;
+    color: #3ea8ef;
+    box-shadow: 0 1px 10px 1px rgba(0,0,0,0.1);
+}
+
+input[type=text], input[type=textarea] {
+    margin: 5px;
+    outline: none;
+    padding: 5px;
+    color: #888;
+}
+
+input[type=submit] {
+    border: none;
+    padding: 5px;
+    background: #3ea8ef;
+    color: white;
+    border-radius: 3px;
+    margin: 5px;
+}
